@@ -4,7 +4,7 @@
 
 Securitisation Ratio 计算`证券化率`脚本，代号 avocado。
 
-## Script Listng 
+## Script Listing 
 
 - 爬虫
 - 绘图
